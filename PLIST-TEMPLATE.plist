@@ -17,13 +17,13 @@
       <key>metadata</key>
       <dict>
         <key>bundle-identifier</key>
-        <string>THIS IS WHERE THE COM.SOMETHING.SOMETHING GOES</string>
+        <string>com.zestia.APPNAME</string>
         <key>bundle-version</key>
         <string>3.0</string>
         <key>kind</key>
         <string>software</string>
         <key>title</key>
-        <string>THIS IS THE NAME DISPLAYED WHEN DOWNLOADING IT. PUT THE APP NAME HERE.</string>
+        <string>*INSERT APP NAME HERE* / Zestia</string>
       </dict>
     </dict>
   </array>
