@@ -17,7 +17,7 @@
       <key>metadata</key>
       <dict>
         <key>bundle-identifier</key>
-        <string>com.deezer.Deezer</string>
+        <string>com.deezer.deezer</string>
         <key>bundle-version</key>
         <string>3.0</string>
         <key>kind</key>
