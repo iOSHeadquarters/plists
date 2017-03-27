@@ -1,1 +1,11 @@
 Zestia PLIST Database (*.plist files)
+------------------------------------------------------
+Format: FILENAME.plist // APPNAME
+For instance: scplus.plist // Snapchat ++
+------------------------------------------------------
+
+Pixlrec.plist // Pixlrec
+SCPhantom.plist // Snapchat Phantom
+UFC++.plist // UFC ++
+Youtube++.plist // YouTube ++
+deezer.plist // Deezer ++
