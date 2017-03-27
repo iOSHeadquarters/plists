@@ -37,7 +37,7 @@
 
         <key>bundle-identifier</key>
 
-        <string>com.zestia.gba4ios</string>
+        <string>com.zestia.gba</string>
 
         <key>bundle-version</key>
 
@@ -49,7 +49,7 @@
 
         <key>title</key>
 
-        <string>GBA4IOS/ Zestia</string>
+        <string>gba/ Zestia</string>
 
       </dict>
 
